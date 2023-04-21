@@ -7,3 +7,4 @@ gradle/wrapper
 .externalNativeBuild
 build
 .idea
+.DS_Store
